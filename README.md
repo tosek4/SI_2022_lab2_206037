@@ -3,8 +3,8 @@
 
 
 Control Flow Graph
-![Control Flow Graph](https://user-images.githubusercontent.com/85617305/171952032-6d3955cb-f77d-448b-9e98-9ca58d269ca9.png)
 
+![Control Flow Graph](https://user-images.githubusercontent.com/85617305/171952032-6d3955cb-f77d-448b-9e98-9ca58d269ca9.png)
 
 Цикломатска комплексност
 
@@ -33,6 +33,7 @@ Control Flow Graph
 
 
 Тест случаи според критериумот Every path
+ 
 ![EveryBranch](https://user-images.githubusercontent.com/85617305/171952202-66fb0027-78b6-4fc5-ac4c-4adcd2b732ba.png)
 
  void everyBranchTest(){
