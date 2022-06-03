@@ -3,12 +3,16 @@
 
 
 Control Flow Graph
+![Control Flow Graph](https://user-images.githubusercontent.com/85617305/171952032-6d3955cb-f77d-448b-9e98-9ca58d269ca9.png)
 
 
 Цикломатска комплексност
+
 Цикломатската комплексност на овој код е 9, истата ја добиваме со броење на предикатните јазли односно јазлите од кои излегува повеќе од едно ребро, исто така може да се добие со броење на регионите. На друг начин би можело со формулата "[број на ребра во графот] - [број на темиња] + 2".
 
 Тест случаи според критериумот Every statement
+
+![EveryStatement](https://user-images.githubusercontent.com/85617305/171952191-3676f06f-cdc8-42f5-a62a-07926df416f8.png)
 
  void everyStatementTest(){
         //Nodes: 7,8,40
@@ -29,6 +33,7 @@ Control Flow Graph
 
 
 Тест случаи според критериумот Every path
+![EveryBranch](https://user-images.githubusercontent.com/85617305/171952202-66fb0027-78b6-4fc5-ac4c-4adcd2b732ba.png)
 
  void everyBranchTest(){
         //Nodes: 7,8,40
